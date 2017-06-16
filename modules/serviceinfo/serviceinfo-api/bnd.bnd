@@ -1,0 +1,9 @@
+Bundle-Name: serviceinfo-api
+Bundle-SymbolicName: org.opencps.serviceinfo.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	org.opencps.serviceinfo.exception,\
+	org.opencps.serviceinfo.model,\
+	org.opencps.serviceinfo.service,\
+	org.opencps.serviceinfo.service.persistence
+-includeresource: META-INF/service.xml=../serviceinfo-service/service.xml
