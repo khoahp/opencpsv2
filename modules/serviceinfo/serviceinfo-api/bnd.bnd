@@ -1,6 +1,6 @@
 Bundle-Name: serviceinfo-api
 Bundle-SymbolicName: org.opencps.serviceinfo.api
-Bundle-Version: 1.0.0
+Bundle-Version: 1.0.1
 Export-Package:\
 	org.opencps.serviceinfo.exception,\
 	org.opencps.serviceinfo.model,\

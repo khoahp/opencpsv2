@@ -15,3 +15,12 @@ gradle-app.setting
 
 .*
 
+/bundles/
+
+#Ignore sample projects
+modules/blade.servicebuilder.api/	
+modules/blade.servicebuilder.svc/
+modules/blade.servicebuilder.web/
+modules/blade.servicebuilder.api/
+
+
